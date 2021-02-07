@@ -48,7 +48,7 @@ Probably the best curated list of data science books in Python.
 * [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) - Emily Robinson & Jacqueline Nolis
 
 ## How to Contribute
-Contributions are always welcome! If you know some interesting books that should be here but are not, feel free to contribute your favorite resources! To contribute, follow the steps below:
+Contributions are always welcome! If you know some interesting books or other categories that should be here but are not, feel free to contribute! To contribute, follow the steps below:
 1. Fork the repo
 1. Add a new book using markdown
 1. Submit the pull request
