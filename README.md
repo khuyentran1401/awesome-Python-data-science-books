@@ -82,7 +82,7 @@ Learn how to query web servers, request data, and parse it to extract the inform
 </details>  
 
 ## Career in data science
-<details><summary><a href="](https://www.manning.com/books/build-a-career-in-data-science">Build a Career in Data Science</a> - Emily Robinson & Jacqueline Nolis </summary>
+<details><summary><a href="https://www.manning.com/books/build-a-career-in-data-science">Build a Career in Data Science</a> - Emily Robinson & Jacqueline Nolis </summary>
 Learn how to how to land your first job to the lifecycle of a data science project, and  how to become a manager.
 </details>  
 
