@@ -92,7 +92,7 @@ Learn how to how to land your first job to the lifecycle of a data science proje
 
 ## How to Contribute
 Contributions are always welcome! If you know some interesting books or other categories that should be here but are not, feel free to contribute! To contribute, follow four steps below:
-1. Fork the repo
+1. Fork the [repo](https://github.com/khuyentran1401/awesome-Python-data-science-books)
 1. Add new resources using the same markdown format. 
 1. Start the book summary with "Learn..."
 1. Submit the pull request
