@@ -1,3 +1,4 @@
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/awesome-Python-data-science-books) 
 # Awesome Python Data Science Books [![Awesome](https://awesome.re/badge.svg)](https://github.com/khuyentran1401/awesome-Python-data-science-books#readme) 
 Probably the best curated list of data science books in Python.
 
