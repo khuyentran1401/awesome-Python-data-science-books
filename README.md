@@ -11,16 +11,16 @@ Probably the best curated list of data science books in Python.
 * [Career in Data Science](#career-in-data-science)
 ## Feature Engineering
 <details><summary><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
-Learn techniques for extracting and transforming features—the numeric representations of raw data—into formats for machine-learning models
+Learn techniques for extracting and transforming features into formats for machine-learning models through practical application with exercises using tools such as numpy, Pandas, Scikit-learn, and Matplotlib.
 </details>  
 <details><summary><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a> - Jake VanderPlas</summary>
-Learn IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools to  manipulate, transform, and clean data; visualize different types of data; and use data to build statistical or machine learning models.
+Learn how to  manipulate, transform, and clean data; visualize different types of data; and use data to build statistical or machine learning models using IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools.
 </details>  
-<details><summary><a href="https://www.oreilly.com/library/view/python-for-data/9781449323592/">Python for Data Analysis</a> - Wes McKinney</summary>
-Get complete instructions for manipulating, processing, cleaning, and crunching datasets in Python. Learn how to use Jupyter Notebook, Numpy, pandas, matplotlib and how to work with time series data through real-world problems.
+<details><summary><a href="https://www.oreilly.com/library/view/python-for-data/9781449323592/">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython/a> - Wes McKinney</summary>
+Learn how to manipulate, process, clean, and crunch datasets in Python and how to work with time series data through real-world problems using Jupyter Notebook, Numpy, pandas, matplotlib.
 </details>  
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
-This book offers a highly accessible introduction to natural language processing from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. 
+Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
 </details>  
 <details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
 Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
@@ -31,7 +31,7 @@ Learn how to align on ML strategies in a team setting, as well as how to set up 
 Learn all the essential machine learning techniques in depth. Learn how to use scikit-learn for machine learning and TensorFlow for deep learning.
 </details>  
 <details><summary><a href="https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715">Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python</a> - Stefan Jansen </summary>
-An introduction to end-to-end machine learning for the trading workflow, from the idea and feature engineering to model optimization, strategy design, and backtesting. I
+Learn end-to-end machine learning for the trading workflow, from the idea and feature engineering to model optimization, strategy design, and backtesting.
 </details>  
 <details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
 Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
@@ -50,13 +50,13 @@ Learn how to load and prepare data, evaluate model skill, and implement forecast
 Learn how to train a model on a wide range of tasks in deep learning with little math background and minimal code using fastai and Pytorch. Written by the creators of fastai. 
 </details>  
 <details><summary><a href="https://www.amazon.com/dp/0262035618?tag=hackr-20&geniuslink=true">Deep Learning (Adaptive Computation and Machine Learning series)</a> - Ian Goodfellow, Yoshua Bengio, Aaron Courville & Francis Bach</summary>
-Learn mathematical and conceptual background, deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology, and other theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models.
+Learn mathematical and conceptual background, deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology, and other theoretical topics.
 </details>  
 <details><summary><a href="https://www.manning.com/books/deep-learning-with-pytorch">Deep Learning with PyTorch</a> - Eli Stevens, Luca Antiga, and Thomas Viehmann</summary>
-Learn how to create deep learning and neural network systems with PyTorch and learn best practices for the entire deep learning pipeline, tackling advanced projects. 
+Learn how to create deep learning and neural network systems with PyTorch and learn best practices for the entire deep learning pipeline for advanced projects. 
 </details>  
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a> - Delip Rao & Brian McMahan</summary>
-Gain a solid grounding in NLP and deep learning algorithms. Learn how to use PyTorch to build applications involving rich representations of text specific to the problems you face.
+Learn the basics of the PyTorch, traditional NLP concepts and methods, neural networks, embeddings, sequence prediction, and design patterns for building production NLP systems.
 </details>  
 <details><summary><a href="https://machinelearningmastery.com/lstms-with-python/">Long Short-Term Memory Networks With Python</a> - Jason Brownlee</summary>
 Learn what LSTMs are, and how to develop a suite of LSTM models using Keras and TensorFlow 2. This book cuts through the math, research papers and patchwork descriptions about LSTMs.
@@ -64,7 +64,7 @@ Learn what LSTMs are, and how to develop a suite of LSTM models using Keras and 
 
 ## Code Optimization
 <details><summary><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287">Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series) </a> - Brett Slatkin</summary>
- Learn how to choose the most efficient and effective way to accomplish key tasks when multiple options exist, and how to write Python code that's easier to understand, maintain, and improve.
+Learn how to choose the most efficient and effective way to accomplish key tasks when multiple options exist, and how to write Python code that's easier to understand, maintain, and improve.
 </details>  
 <details><summary><a href="https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301">Python Tricks: A Buffet of Awesome Python Features</a> - Dan Bader</summary>
 Learn best practices and little-known tricks to round out your Python knowledge.
