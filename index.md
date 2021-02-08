@@ -1,3 +1,4 @@
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/awesome-Python-data-science-books) 
 # Awesome Python Data Science Books [![Awesome](https://awesome.re/badge.svg)](https://github.com/khuyentran1401/awesome-Python-data-science-books#readme) 
 Probably the best curated list of data science books in Python.
 
@@ -26,9 +27,6 @@ Learn how to manipulate, process, clean, and crunch datasets in Python and how t
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
 Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
 </details>  
-<details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
-Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
-</details>  
 
 <h2 id='machine-learning'> Machine Learning <img src="images/robot1.png"></h2>
 
@@ -43,6 +41,9 @@ Learn approximate inference algorithms that permit fast approximate answers in s
 </details>  
 <details><summary><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</a> - Aurélien Géron  </summary>
 Learn a range of techniques, starting with simple linear regression and progressing to deep neural networks using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow.
+</details>  
+<details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
+Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
 </details>  
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
@@ -92,7 +93,7 @@ Learn how to how to land your first job to the lifecycle of a data science proje
 
 ## How to Contribute
 Contributions are always welcome! If you know some interesting books or other categories that should be here but are not, feel free to contribute! To contribute, follow four steps below:
-1. Fork the repo
+1. Fork the [repo](https://github.com/khuyentran1401/awesome-Python-data-science-books)
 1. Add new resources using the same markdown format. 
 1. Start the book summary with "Learn..."
 1. Submit the pull request
