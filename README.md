@@ -26,9 +26,6 @@ Learn how to manipulate, process, clean, and crunch datasets in Python and how t
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
 Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
 </details>  
-<details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
-Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
-</details>  
 
 <h2 id='machine-learning'> Machine Learning <img src="images/robot1.png"></h2>
 
@@ -43,6 +40,9 @@ Learn approximate inference algorithms that permit fast approximate answers in s
 </details>  
 <details><summary><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</a> - Aurélien Géron  </summary>
 Learn a range of techniques, starting with simple linear regression and progressing to deep neural networks using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow.
+</details>  
+<details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
+Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
 </details>  
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
