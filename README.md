@@ -45,8 +45,7 @@ Learn approximate inference algorithms that permit fast approximate answers in s
 Learn a range of techniques, starting with simple linear regression and progressing to deep neural networks using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow.
 </details>  
 
-## Time Series
-![image](images/alarm-clock.png)
+<h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
 <details><summary><a href="https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/">Introduction to Time Series Forecasting With Python</a> - Jason Brownlee  </summary>
 Learn how to load and prepare data, evaluate model skill, and implement forecasting models for time series data.This book cuts through the math and specialized methods for time series forecasting.
 </details>  
@@ -99,5 +98,8 @@ Contributions are always welcome! If you know some interesting books or other ca
 1. Submit the pull request
 
 That's it. As soon as I review your pull request, your resources will be added to this page. 
+
+Alternatively, you can create an issue with book recommendation.
+
 
 
