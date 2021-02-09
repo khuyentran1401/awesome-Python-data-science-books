@@ -3,7 +3,8 @@
 Probably the best curated list of data science books in Python.
 
 ## Contents
-* [Feature Engineering ](#feature-engineering)
+* [Data Visualization](#data-visualization)
+* [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
 * [Time Series](#time-series)
 * [Deep Learning](#deep-learning)
@@ -11,11 +12,14 @@ Probably the best curated list of data science books in Python.
 * [Scraping](#scraping)
 * [Career in Data Science](#career-in-data-science)
 
+<h2 id='data-visualization'> Data Visualization <img src="images/bar-chart.png"></h2>
+<details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
+Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.
+</details>  
+
 <h2 id='feature-engineering'> Feature Engineering <img src="images/hammer1.png"></h2>
 
-<details><summary><a href="https://www.amazon.com/
-
-Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
+<details><summary><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
 Learn techniques for extracting and transforming features into formats for machine-learning models through practical application with exercises using tools such as numpy, Pandas, Scikit-learn, and Matplotlib.
 </details>  
 <details><summary><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a> - Jake VanderPlas</summary>
@@ -41,6 +45,9 @@ Learn approximate inference algorithms that permit fast approximate answers in s
 </details>  
 <details><summary><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</a> - Aurélien Géron  </summary>
 Learn a range of techniques, starting with simple linear regression and progressing to deep neural networks using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow.
+</details>  
+<details><summary><a href="https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X">Building Machine Learning Powered Applications: Going from Idea to Product </a> - Emmanuel Ameisen  </summary>
+Learn the skills necessary to design, build, and deploy applications powered by machine learning. Learn the tools, best practices, and challenges involved in building a real-world ML application.
 </details>  
 <details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
 Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
