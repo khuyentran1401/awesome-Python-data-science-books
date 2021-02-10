@@ -4,6 +4,7 @@
 Probably the best curated list of data science books in Python.
 
 ## Contents
+* [Statistics](#statistics)
 * [Data Visualization](#data-visualization)
 * [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
@@ -12,8 +13,11 @@ Probably the best curated list of data science books in Python.
 * [Code Optimization](#code-optimization)
 * [Scraping](#scraping)
 * [Career in Data Science](#career-in-data-science)
-
-<h2 id='data-visualization'> Data Visualization <img src="images/bar-chart.png"></h2>
+<h2 id='statistics'> Statistics <img src="images/calculating.png"></h2>
+<details><summary><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962">Practical Statistics for Data Scientists: 50 Essential Concepts  </a> - Peter Bruce &  Andrew Bruce </summary>
+<br>  <br>Learn how to apply various statistical methods to data science and how to avoid their misuse. Understand what statistical concept is important and what is not.</li>
+</details>  
+<h2 id='data-visualization'> Data Visualization <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
 </details>  
