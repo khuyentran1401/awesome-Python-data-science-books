@@ -17,6 +17,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962">Practical Statistics for Data Scientists: 50 Essential Concepts  </a> - Peter Bruce &  Andrew Bruce </summary>
 <br>  <br>Learn how to apply various statistical methods to data science and how to avoid their misuse. Understand what statistical concept is important and what is not.</li>
 </details>  
+<details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
+<br>Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
+</details>  
 <h2 id='data-visualization'> Data Visualization <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
@@ -39,9 +42,6 @@ Probably the best curated list of data science books in Python.
 
 <h2 id='machine-learning'> Machine Learning <img src="images/robot1.png"></h2>
 
-<details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
-<br>Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
-</details>  
 <details><summary><a href="https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939">Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2</a> - Sebastian Raschka &  Vahid Mirjalili  </summary>
 <br>Learn all the essential machine learning techniques in depth. Learn how to use scikit-learn for machine learning and TensorFlow for deep learning.
 </details>  
