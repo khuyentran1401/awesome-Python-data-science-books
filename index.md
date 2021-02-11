@@ -5,7 +5,7 @@ Probably the best curated list of data science books in Python.
 
 ## Contents
 * [Statistics](#statistics)
-* [Data Visualization](#data-visualization)
+* [Data Analysis](#data-analysis)
 * [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
 * [Time Series](#time-series)
@@ -19,12 +19,20 @@ Probably the best curated list of data science books in Python.
 </details>  
 <details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
 <br>Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
-</details>  
-<h2 id='data-visualization'> Data Visualization <img src="images/bar-graph.png"></h2>
+</details> 
+<h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
 </details>  
-
+<details><summary><a href="https://www.amazon.com/Head-First-Data-Analysis-statistics/dp/0596153937">Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions </a> - Michael Milton Knaflic</summary>
+<br>  <br>Learn how to determine which data sources to use for collecting information, distinguish signal from noise, cope with ambiguous information, design experiments to test hypothesis, organize your data using segmentation, and communicate the results of your analysis..</li>
+</details> 
+<details><summary><a href="https://www.amazon.com/Data-Mining-Techniques-Relationship-Management/dp/0470650931">Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management </a> -  Gordon S. Linoff & Michael J. A. Berry</summary>
+<br>  <br>Learn how to harness the newest data mining methods and techniques to prepare data for analysis and create the necessary infrastructure for data mining at your company. Learn core data mining techniques, including decision trees, neural networks, collaborative filtering, association rules, link analysis, survival analysis.</li>
+</details> 
+<details><summary><a href="https://www.amazon.com/Behind-Every-Good-Decision-Profitable/dp/0814449212">Behind Every Good Decision: How Anyone Can Use Business Analytics to Turn Data into Profitable Insight  </a> -  Piyanka Jain & Puneet Sharma</summary>
+<br>  <br>Learn how to clarify the business question, lay out a hypothesis-driven plan, convert relevant data to insights, and make decisions that make an impact.</li>
+</details> 
 <h2 id='feature-engineering'> Feature Engineering <img src="images/hammer1.png"></h2>
 
 <details><summary><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
