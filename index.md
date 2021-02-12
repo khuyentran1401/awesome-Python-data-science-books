@@ -6,7 +6,7 @@ Probably the best curated list of data science books in Python.
 ## Contents
 * [Statistics](#statistics)
 * [Data Analysis](#data-analysis)
-* [Data Intuition](data-intuition)
+* [Data Intuition](#data-intuition)
 * [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
 * [Time Series](#time-series)
@@ -35,7 +35,7 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Behind-Every-Good-Decision-Profitable/dp/0814449212">Behind Every Good Decision: How Anyone Can Use Business Analytics to Turn Data into Profitable Insight  </a> -  Piyanka Jain & Puneet Sharma</summary>
 <br>  <br>Learn how to clarify the business question, lay out a hypothesis-driven plan, convert relevant data to insights, and make decisions that make an impact.</li>
 </details> 
-<details><summary><a href="https://www.amazon.com/Behind-Every-Good-Decision-Profitable/dp/0814449212">The Book of Why: The New Science of Cause and Effect </a> -  Judea Pearl & Dana Mackenzie</summary>
+<details><summary><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X">The Book of Why: The New Science of Cause and Effect </a> -  Judea Pearl & Dana Mackenzie</summary>
 <br>  <br>Learn how to explore the world that is and the worlds that could have been by understanding causality. Learn to answer hard questions, like whether a drug cured an illness.</li>
 </details> 
 <h2 id='feature-engineering'> Feature Engineering <img src="images/hammer1.png"></h2>
