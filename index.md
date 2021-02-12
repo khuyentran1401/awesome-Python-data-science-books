@@ -6,6 +6,7 @@ Probably the best curated list of data science books in Python.
 ## Contents
 * [Statistics](#statistics)
 * [Data Analysis](#data-analysis)
+* [Data Intuition](data-intuition)
 * [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
 * [Time Series](#time-series)
@@ -24,7 +25,7 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
 </details>  
-<h2 id='data-intuition'> Data Intuition <img src="images/bar-graph.png"></h2>
+<h2 id='data-intuition'> Data Intuition <img src="images/creative-idea.png"></h2>
 <details><summary><a href="https://www.amazon.com/Head-First-Data-Analysis-statistics/dp/0596153937">Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions </a> - Michael Milton Knaflic</summary>
 <br>  <br>Learn how to determine which data sources to use for collecting information, distinguish signal from noise, cope with ambiguous information, design experiments to test hypothesis, organize your data using segmentation, and communicate the results of your analysis..</li>
 </details> 
