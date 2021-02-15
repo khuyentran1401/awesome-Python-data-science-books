@@ -69,6 +69,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> - Andrew Ng </summary>
 <br>Learn how to align on ML strategies in a team setting, as well as how to set up development (dev) sets and test sets.
 </details>  
+<details><summary><a href="https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT/">Approaching (Almost) Any Machine Learning Problem</a> - Abhishek Thakur </summary>
+<br>Learn how and what you should use to solve machine learning and deep learning problems. Appropriate for those who have some theoretical knowledge of machine learning and deep learning.
+</details>  
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
 <details><summary><a href="https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/">Introduction to Time Series Forecasting With Python</a> - Jason Brownlee  </summary>
