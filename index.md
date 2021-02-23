@@ -21,6 +21,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
 <br>Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
 </details> 
+<details><summary><a href="https://www.amazon.com/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780">Think Bayes: Bayesian Statistics in Python</a> - Allen B. Downey  </summary>
+<br>Learn how to solve statistical problems with Python code instead of mathematical notations. Learn how to work with problems involving estimation, prediction, decision analysis, evidence, and hypothesis testing. 
+</details> 
 <h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
