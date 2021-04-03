@@ -86,7 +86,7 @@ Probably the best curated list of data science books in Python.
 </details>  
 
 
-<h2 id='natural-language-processing'> Natural Language Processing <img src="images/natural-language-processing.png"></h2>
+<h2 id='natural-language-processing'> Natural Language Processing <img src="https://github.com/khuyentran1401/awesome-Python-data-science-books/blob/main/images/natural-language-processing.png?raw=true"></h2>
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
 <br>Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
 </details>  
