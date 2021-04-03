@@ -10,6 +10,7 @@ Probably the best curated list of data science books in Python.
 * [Feature Engineering](#feature-engineering)
 * [Machine Learning](#machine-learning)
 * [Time Series](#time-series)
+* [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
 * [Code Optimization](#code-optimization)
 * [Scraping](#scraping)
@@ -51,12 +52,12 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.oreilly.com/library/view/python-for-data/9781449323592/">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a> - Wes McKinney</summary>
 <br>Learn how to manipulate, process, clean, and crunch datasets in Python and how to work with time series data through real-world problems using Jupyter Notebook, Numpy, pandas, matplotlib.
 </details>  
-<details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
-<br>Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
-</details>  
 
 <h2 id='machine-learning'> Machine Learning <img src="images/robot1.png"></h2>
-
+<details><summary><a href="http://themlbook.com/">The Hundred-Page Machine Learning Book
+</a> - Andriy Burkov  </summary>
+<br>Learn everything you really need to know in Machine Learning in a hundred page. 
+</details>  
 <details><summary><a href="https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939">Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2</a> - Sebastian Raschka &  Vahid Mirjalili  </summary>
 <br>Learn all the essential machine learning techniques in depth. Learn how to use scikit-learn for machine learning and TensorFlow for deep learning.
 </details>  
@@ -75,10 +76,25 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT/">Approaching (Almost) Any Machine Learning Problem</a> - Abhishek Thakur </summary>
 <br>Learn how and what you should use to solve machine learning and deep learning problems. Appropriate for those who have some theoretical knowledge of machine learning and deep learning.
 </details>  
+<details><summary><a href="https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577">Machine Learning Engineering</a> - Andriy Burkov </summary>
+<br>Learn best practices and design patterns of building reliable machine learning solutions tha scale. 
+</details> 
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
 <details><summary><a href="https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/">Introduction to Time Series Forecasting With Python</a> - Jason Brownlee  </summary>
 <br>Learn how to load and prepare data, evaluate model skill, and implement forecasting models for time series data.This book cuts through the math and specialized methods for time series forecasting.
+</details>  
+
+
+<h2 id='natural-language-processing'> Natural Language Processing <img src="images/natural-language-processing.png"></h2>
+<details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
+<br>Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
+</details>  
+<details><summary><a href="https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054">Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems</a> - Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta & Harshit Surana</summary>
+<br>Learn how to adapt your solutions for different industry verticals such as healthcare, social media, and retail. Understand tasks and solution approaches within NLP and best practices around deployment for NLP systems. 
+</details>  
+<details><summary><a href="https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a> - Delip Rao & Brian McMahan</summary>
+<br>Learn the basics of the PyTorch, traditional NLP concepts and methods, neural networks, embeddings, sequence prediction, and design patterns for building production NLP systems.
 </details>  
 
 <h2 id='deep-learning'> Deep Learning <img src="images/neural.png"></h2>
@@ -90,9 +106,6 @@ Probably the best curated list of data science books in Python.
 </details>  
 <details><summary><a href="https://www.manning.com/books/deep-learning-with-pytorch">Deep Learning with PyTorch</a> - Eli Stevens, Luca Antiga, and Thomas Viehmann</summary>
 <br>Learn how to create deep learning and neural network systems with PyTorch and learn best practices for the entire deep learning pipeline for advanced projects. 
-</details>  
-<details><summary><a href="https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a> - Delip Rao & Brian McMahan</summary>
-<br>Learn the basics of the PyTorch, traditional NLP concepts and methods, neural networks, embeddings, sequence prediction, and design patterns for building production NLP systems.
 </details>  
 <details><summary><a href="https://machinelearningmastery.com/lstms-with-python/">Long Short-Term Memory Networks With Python</a> - Jason Brownlee</summary>
 <br>Learn what LSTMs are, and how to develop a suite of LSTM models using Keras and TensorFlow 2. This book cuts through the math, research papers and patchwork descriptions about LSTMs.
