@@ -42,6 +42,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X">The Book of Why: The New Science of Cause and Effect </a> -  Judea Pearl & Dana Mackenzie</summary>
 <br>  <br>Learn how to explore the world that is and the worlds that could have been by understanding causality. Learn to answer hard questions, like whether a drug cured an illness.</li>
 </details> 
+<details><summary><a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy </a> -  Cathy O'Neil </summary>
+<br>  <br>Learn how the models being used today reinforce discrimination, prop up the lucky and punish the downtrodden. The book empower us to ask tough questions, uncover the truth, and demand change. </li>
+</details> 
 <h2 id='feature-engineering'> Feature Engineering <img src="images/hammer1.png"></h2>
 <details><summary><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
 <br>Learn techniques for extracting and transforming features into formats for machine-learning models through practical application with exercises using tools such as numpy, Pandas, Scikit-learn, and Matplotlib.
@@ -79,6 +82,10 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577">Machine Learning Engineering</a> - Andriy Burkov </summary>
 <br>Learn best practices and design patterns of building reliable machine learning solutions tha scale. 
 </details> 
+<details><summary><a href="https://christophm.github.io/interpretable-ml-book">Interpretable Machine Learning
+</a> - Christoph Molnar </summary>
+<br>Learn the concepts of interpretability, interpretable models, and general methods for interpreting black box models. Learn in depth the strengths and weaknesses of each method and how their outputs can be interpreted.
+</details> 
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
 <details><summary><a href="https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/">Introduction to Time Series Forecasting With Python</a> - Jason Brownlee  </summary>
@@ -86,7 +93,7 @@ Probably the best curated list of data science books in Python.
 </details>  
 
 
-<h2 id='natural-language-processing'> Natural Language Processing <img src="https://github.com/khuyentran1401/awesome-Python-data-science-books/blob/main/images/natural-language-processing.png?raw=true"></h2>
+<h2 id='natural-language-processing'> Natural Language Processing <img src="images/natural-language-processing.png"></h2>
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495">Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit</a> - Steven Bird & Ewan Klein </summary>
 <br>Learn how to predict text, filter email to automatic summarization and translation, and learn how to write Python programs that work with large collections of unstructured text. 
 </details>  
@@ -95,6 +102,9 @@ Probably the best curated list of data science books in Python.
 </details>  
 <details><summary><a href="https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a> - Delip Rao & Brian McMahan</summary>
 <br>Learn the basics of the PyTorch, traditional NLP concepts and methods, neural networks, embeddings, sequence prediction, and design patterns for building production NLP systems.
+</details>  
+<details><summary><a href="https://www.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1800565798">Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more</a> - Denis Rothman</summary>
+<br>Learn in detail the deep learning for machine translations, speech-to-text, text-to-speech, language modeling, question answering, and many more NLP domains with transformers.
 </details>  
 
 <h2 id='deep-learning'> Deep Learning <img src="images/neural.png"></h2>
