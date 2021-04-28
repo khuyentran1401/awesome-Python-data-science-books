@@ -124,7 +124,7 @@ Probably the best curated list of data science books in Python.
 <br>Learn what LSTMs are, and how to develop a suite of LSTM models using Keras and TensorFlow 2. This book cuts through the math, research papers and patchwork descriptions about LSTMs.
 </details>
 <details><summary><a href="https://www.practicaldeeplearning.ai/">Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow</a> - Anirudh Koul, Siddha Ganju, & Meher Kasam</summary>
-<br>Whether you’re a software engineer aspiring to enter the world of deep learning, a veteran data scientist, or a hobbyist with a simple dream of making the next viral AI app, you might have wondered where do I begin? This step-by-step guide teaches you how to build practical computer vision based deep learning applications that can be deployed on the cloud, mobile, browsers, or edge devices using a hands-on approach. 
+<br>Learn how to build practical computer vision based deep learning applications that can be deployed on the cloud, mobile, browsers, or edge devices using a hands-on approach. 
 </details>
 
 <h2 id='code-optimization'> Code Optimization <img src="images/code.png"></h2>
