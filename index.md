@@ -28,10 +28,18 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents">Probabilistic Programming & Bayesian Methods for Hackers</a> - Cameron Davidson-Pilon </summary>
 <br>Learn Bayesian inference from a computational/understanding-first, and mathematics-second, point of view.
 </details> 
+
+
 <h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
 <br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
-</details>  
+</details> 
+<details><summary><a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch, 2nd Edition
+</a> - Joel Grus  </summary>
+<br>Learn data science libraries, frameworks, modules, tools and algorithms by implementing them from scratch.
+</details> 
+
+
 <h2 id='data-intuition'> Data Intuition <img src="images/creative-idea.png"></h2>
 <details><summary><a href="https://www.amazon.com/Head-First-Data-Analysis-statistics/dp/0596153937">Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions </a> - Michael Milton Knaflic</summary>
 <br>  <br>Learn how to determine which data sources to use for collecting information, distinguish signal from noise, cope with ambiguous information, design experiments to test hypothesis, organize your data using segmentation, and communicate the results of your analysis..</li>
@@ -48,6 +56,8 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy </a> -  Cathy O'Neil </summary>
 <br>  <br>Learn how the models being used today reinforce discrimination, prop up the lucky and punish the downtrodden. The book empower us to ask tough questions, uncover the truth, and demand change. </li>
 </details> 
+
+
 <h2 id='feature-engineering'> Feature Engineering <img src="images/hammer1.png"></h2>
 <details><summary><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a> - Alice Zheng & Amanda Casari</summary>
 <br>Learn techniques for extracting and transforming features into formats for machine-learning models through practical application with exercises using tools such as numpy, Pandas, Scikit-learn, and Matplotlib.
@@ -89,11 +99,23 @@ Probably the best curated list of data science books in Python.
 </a> - Christoph Molnar </summary>
 <br>Learn the concepts of interpretability, interpretable models, and general methods for interpreting black box models. Learn in depth the strengths and weaknesses of each method and how their outputs can be interpreted.
 </details> 
+<details><summary><a href="https://www.oreilly.com/library/view/building-machine-learning/9781492053187/">Building Machine Learning Pipelines
+</a> - Hannes Hapke & Catherine Nelson  </summary>
+<br>Learn the steps of automating a machine learning pipeline using the TensorFlow ecosystem. 
+</details> 
+<details><summary><a href="https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/">Introduction to Machine Learning with Python
+</a> - Andreas C. Müller & Sarah Guido  </summary>
+<br>Learn to create a successful machine-learning application with Python and the scikit-learn library. 
+</details> 
 
 <h2 id='time-series'> Time Series <img src="images/alarm-clock.png"></h2>
 <details><summary><a href="https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/">Introduction to Time Series Forecasting With Python</a> - Jason Brownlee  </summary>
 <br>Learn how to load and prepare data, evaluate model skill, and implement forecasting models for time series data.This book cuts through the math and specialized methods for time series forecasting.
-</details>  
+</details> 
+<details><summary><a href="https://www.oreilly.com/library/view/practical-time-series/9781492041641/">Practical Time Series Analysis
+</a> - Aileen Nielsen  </summary>
+<br>Learn to solve the most common data engineering and analysis challenges in time series, using both traditional statistical and modern machine learning techniques. 
+</details> 
 
 
 <h2 id='natural-language-processing'> Natural Language Processing <img src="images/natural-language-processing.png"></h2>
@@ -122,7 +144,11 @@ Probably the best curated list of data science books in Python.
 </details>  
 <details><summary><a href="https://machinelearningmastery.com/lstms-with-python/">Long Short-Term Memory Networks With Python</a> - Jason Brownlee</summary>
 <br>Learn what LSTMs are, and how to develop a suite of LSTM models using Keras and TensorFlow 2. This book cuts through the math, research papers and patchwork descriptions about LSTMs.
-</details>  
+</details>
+<details><summary><a href="https://www.practicaldeeplearning.ai/">Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow</a> - Anirudh Koul, Siddha Ganju, & Meher Kasam</summary>
+<br>Learn how to build practical computer vision based deep learning applications that can be deployed on the cloud, mobile, browsers, or edge devices using a hands-on approach. 
+</details>
+
 <h2 id='code-optimization'> Code Optimization <img src="images/code.png"></h2>
 <details><summary><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287">Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series) </a> - Brett Slatkin</summary>
 <br>Learn how to choose the most efficient and effective way to accomplish key tasks when multiple options exist, and how to write Python code that's easier to understand, maintain, and improve.
