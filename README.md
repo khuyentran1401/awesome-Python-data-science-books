@@ -148,7 +148,7 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.practicaldeeplearning.ai/">Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow</a> - Anirudh Koul, Siddha Ganju, & Meher Kasam</summary>
 <br>Learn how to build practical computer vision based deep learning applications that can be deployed on the cloud, mobile, browsers, or edge devices using a hands-on approach. 
 </details>
-<details><summary><a href="https://www.deeplearningillustrated.com/">Deep Learning Illustrated/a> - Jon Krohn</summary>
+<details><summary><a href="https://www.deeplearningillustrated.com/">Deep Learning Illustrated</a> - Jon Krohn</summary>
 <br>Learn essential concepts in deep learning through visualization with little math. 
 </details>
 
