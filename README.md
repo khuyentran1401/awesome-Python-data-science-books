@@ -17,7 +17,7 @@ Probably the best curated list of data science books in Python.
 * [Career in Data Science](#career-in-data-science)
 <h2 id='statistics'> Statistics <img src="images/calculating.png"></h2>
 <details><summary><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962">Practical Statistics for Data Scientists: 50 Essential Concepts  </a> - Peter Bruce &  Andrew Bruce </summary>
-<br>  <br>Learn how to apply various statistical methods to data science and how to avoid their misuse. Understand what statistical concept is important and what is not.</li>
+<br>  <br>Learn how to apply various statistical methods to data science and how to avoid their misuse. Understand what statistical concept is important and what is not.
 </details>  
 <details><summary><a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Pattern Recognition and Machine Learning</a> - Christopher M. Bishop  </summary>
 <br>Learn approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. Familiarity with multivariate calculus and basic linear algebra is required
