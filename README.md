@@ -32,7 +32,7 @@ Probably the best curated list of data science books in Python.
 
 <h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
-<br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.</li>
+<br>  <br>Learn how to determine the appropriate type of graph for your situation, eliminate irrelevant information, and direct your audience's attention to the most important parts of your data.
 </details> 
 <details><summary><a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch, 2nd Edition
 </a> - Joel Grus  </summary>
@@ -42,19 +42,19 @@ Probably the best curated list of data science books in Python.
 
 <h2 id='data-intuition'> Data Intuition <img src="images/creative-idea.png"></h2>
 <details><summary><a href="https://www.amazon.com/Head-First-Data-Analysis-statistics/dp/0596153937">Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions </a> - Michael Milton Knaflic</summary>
-<br>  <br>Learn how to determine which data sources to use for collecting information, distinguish signal from noise, cope with ambiguous information, design experiments to test hypothesis, organize your data using segmentation, and communicate the results of your analysis..</li>
+<br>  <br>Learn how to determine which data sources to use for collecting information, distinguish signal from noise, cope with ambiguous information, design experiments to test hypothesis, organize your data using segmentation, and communicate the results of your analysis.
 </details> 
 <details><summary><a href="https://www.amazon.com/Data-Mining-Techniques-Relationship-Management/dp/0470650931">Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management </a> -  Gordon S. Linoff & Michael J. A. Berry</summary>
-<br>  <br>Learn how to harness the newest data mining methods and techniques to prepare data for analysis and create the necessary infrastructure for data mining at your company. Learn core data mining techniques, including decision trees, neural networks, collaborative filtering, association rules, link analysis, survival analysis.</li>
+<br>  <br>Learn how to harness the newest data mining methods and techniques to prepare data for analysis and create the necessary infrastructure for data mining at your company. Learn core data mining techniques, including decision trees, neural networks, collaborative filtering, association rules, link analysis, survival analysis.
 </details> 
 <details><summary><a href="https://www.amazon.com/Behind-Every-Good-Decision-Profitable/dp/0814449212">Behind Every Good Decision: How Anyone Can Use Business Analytics to Turn Data into Profitable Insight  </a> -  Piyanka Jain & Puneet Sharma</summary>
-<br>  <br>Learn how to clarify the business question, lay out a hypothesis-driven plan, convert relevant data to insights, and make decisions that make an impact.</li>
+<br>  <br>Learn how to clarify the business question, lay out a hypothesis-driven plan, convert relevant data to insights, and make decisions that make an impact.
 </details> 
 <details><summary><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X">The Book of Why: The New Science of Cause and Effect </a> -  Judea Pearl & Dana Mackenzie</summary>
-<br>  <br>Learn how to explore the world that is and the worlds that could have been by understanding causality. Learn to answer hard questions, like whether a drug cured an illness.</li>
+<br>  <br>Learn how to explore the world that is and the worlds that could have been by understanding causality. Learn to answer hard questions, like whether a drug cured an illness.
 </details> 
 <details><summary><a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy </a> -  Cathy O'Neil </summary>
-<br>  <br>Learn how the models being used today reinforce discrimination, prop up the lucky and punish the downtrodden. The book empower us to ask tough questions, uncover the truth, and demand change. </li>
+<br>  <br>Learn how the models being used today reinforce discrimination, prop up the lucky and punish the downtrodden. The book empower us to ask tough questions, uncover the truth, and demand change. 
 </details> 
 
 
