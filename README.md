@@ -28,6 +28,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents">Probabilistic Programming & Bayesian Methods for Hackers</a> - Cameron Davidson-Pilon </summary>
 <br>Learn Bayesian inference from a computational/understanding-first, and mathematics-second, point of view.
 </details> 
+<details><summary><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a> - Gareth James, Daniela Witten, Trevor Hastie, & Rob Tibshirani</summary>
+<br>Learn key topics in statistical learning. This book is perfect for those who want a gentle introduction all popular machine learning algorithms. 
+</details> 
 
 
 <h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
