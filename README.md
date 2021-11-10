@@ -58,6 +58,9 @@ Probably the best curated list of data science books in Python.
 </details> 
 <details><summary><a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy </a> -  Cathy O'Neil </summary>
 <br>  <br>Learn how the models being used today reinforce discrimination, prop up the lucky and punish the downtrodden. The book empower us to ask tough questions, uncover the truth, and demand change. 
+</details>
+<details><summary><a href="https://www.amazon.in/Business-Analytics-Science-Driven-Decision/dp/8126568771">Business Analytics: The Science of Data - Driven Decision Making </a> -  U Dinesh Kumar </summary>
+<br>  <br>Learn the foundations of data science and components of analytics such as descriptive, predictive and prescriptive analytics topics using examples from several industries, as well as nine analytics case studies. The book gives equal importance to theory and practice with examples across industries and the case studies provide a deeper understanding of analytics techniques and deployment of analytics-driven solutions.
 </details> 
 
 
