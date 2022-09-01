@@ -121,7 +121,10 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.oreilly.com/library/view/practical-time-series/9781492041641/">Practical Time Series Analysis
 </a> - Aileen Nielsen  </summary>
 <br>Learn to solve the most common data engineering and analysis challenges in time series, using both traditional statistical and modern machine learning techniques. 
-</details> 
+</details>
+<details><summary><a href="https://www.manning.com/books/time-series-forecasting-in-python-book">Time Series Forecasting in Python
+</a> - Marco Peixeiro  </summary>
+<br>Build predictive models from time-based patterns in your data. Master statistical models including new deep learning approaches for time series forecasting.
 
 
 <h2 id='natural-language-processing'> Natural Language Processing <img src="images/natural-language-processing.png"></h2>
