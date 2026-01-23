@@ -25,6 +25,9 @@ Probably the best curated list of data science books in Python.
 <details><summary><a href="https://www.amazon.com/Think-Bayes-Bayesian-Statistics-Python/dp/1449370780">Think Bayes: Bayesian Statistics in Python</a> - Allen B. Downey  </summary>
 <br>Learn how to solve statistical problems with Python code instead of mathematical notations. Learn how to work with problems involving estimation, prediction, decision analysis, evidence, and hypothesis testing. 
 </details> 
+<details><summary><a href="https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book">The Math Behind Artificial Intelligence</a> - freeCodeCamp </summary>
+<br>Learn the mathematical foundations of artificial intelligence including linear algebra, calculus, probability, and statistics essential for understanding AI and machine learning algorithms.
+</details>
 <details><summary><a href="https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents">Probabilistic Programming & Bayesian Methods for Hackers</a> - Cameron Davidson-Pilon </summary>
 <br>Learn Bayesian inference from a computational/understanding-first, and mathematics-second, point of view.
 </details> 
